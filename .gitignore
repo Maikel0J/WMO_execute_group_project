@@ -1,5 +1,6 @@
 # data
 *.csv
+*.xlsx
 !*.parquet.gzip
 
 # Byte-compiled / optimized / DLL files
